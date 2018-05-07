@@ -1,0 +1,7 @@
+ant
+.settings
+.idea
+.classpath
+.project
+*.iml
+*.jar
